@@ -84,6 +84,7 @@ Evaluation by compare with Label.
 * Try Dimension reduction methods (e.g., PCA)
 * Try other weighted schemes
 * Try Vector representation with Doc2vec method
+* Try soft clustering (topic modeling) (e.g., LDA)
 
 ## Acknowledgements
 * pre-trained model from [huggingface](https://huggingface.co/mrp/simcse-model-wangchanberta)
