@@ -3,7 +3,7 @@
 
 ## Dataset
 * The dataset is scraped from [sanook.com](https://www.sanook.com/) ranked by top views in each categories. 
-* there are 10 categories: [crime](https://www.sanook.com/news/tag/อาชญากรรม/),  [politics]('https://www.sanook.com/news/tag/การเมือง/), [money](https://www.sanook.com/money/archive/), [technology](https://www.sanook.com/hitech/archive/), [sport](https://www.sanook.com/sport/archive/), [health](https://www.sanook.com/health/archive/), [horoscope](https://www.sanook.com/horoscope/archive/), [car](https://www.sanook.com/auto/archive/), [game](https://www.sanook.com/game/archive/), [entertain](https://www.sanook.com/news/archive/entertain/') 
+* there are 10 categories: [crime](https://www.sanook.com/news/tag/อาชญากรรม/),  [politics](https://www.sanook.com/news/tag/การเมือง/), [money](https://www.sanook.com/money/archive/), [technology](https://www.sanook.com/hitech/archive/), [sport](https://www.sanook.com/sport/archive/), [health](https://www.sanook.com/health/archive/), [horoscope](https://www.sanook.com/horoscope/archive/), [car](https://www.sanook.com/auto/archive/), [game](https://www.sanook.com/game/archive/), [entertain](https://www.sanook.com/news/archive/entertain/') 
 * i used Selenium and BeautifulSoup for scraping.
 * The code are in [sanook_web_scraping.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/sanook_web_scraping.ipynb "sanook_web_scraping.ipynb") or you can download it in [Google drive](https://drive.google.com/drive/folders/14iCuSBW-Ia31dhJgOVGdd4XSSdqntmbh?usp=sharing)
 
@@ -30,9 +30,11 @@ I use Bag-of-Words (TF-IDF) to create vector representation and use it as a base
 * Sentence embedding: The best model is [WangchanBERTa with SimCSE](https://huggingface.co/mrp/simcse-model-wangchanberta).
 * Weighted with number of Named-Entities
 After, Sentences are embedded to vector by Transformer model. The embedded vectors are weigthed by number of named entities of particular types in sentence. then use these formular to create Document vector representation
+
 $$
   v_{d} = \frac {\sum_{s \in d}w_{s} \times v_{s}} {\sum w_{s}}
 $$ $$ w_{s} = n_{s} + 1$$
+
 where  n<sub>s</sub> denotes the number of named entities of particular types in sentence.
 This weighting scheme is adopted from https://ieeexplore.ieee.org/document/9085059
 
