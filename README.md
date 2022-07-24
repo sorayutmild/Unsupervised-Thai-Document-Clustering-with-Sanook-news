@@ -57,7 +57,8 @@ km = KMeans(n_clusters=k, max_iter=100, n_init=55,)
 ## How to run code
 * **For web scraping** (you can skip this. we download it for you)
 	* Install the library by running this command ```pip install -r requirements.txt```
-	* then run this notebook [sanook_web_scraping.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/sanook_web_scraping.ipynb "sanook_web_scraping.ipynb") with that environment
+    * Download chromedriver.exe and put in directory.
+	* then run this notebook [sanook_web_scraping.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/sanook_web_scraping.ipynb "sanook_web_scraping.ipynb") with that environment.
 
 * **Document clustering**
 	*  Run this [Document_clustering.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/Document_clustering.ipynb "Document_clustering.ipynb") notebook on Google Colab. 
