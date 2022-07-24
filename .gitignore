@@ -3,3 +3,4 @@ csv_files/*
 text_files/*
 venv/*
 chromedriver.exe
+text_files.zip
