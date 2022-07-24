@@ -2,16 +2,17 @@
 # Unsupervised-Thai-Document-Clustering-with-Sanook-news
 
 ## Dataset
-* The dataset is scraped from [sanook.com](https://www.sanook.com/) ranked by top views in each categories. 
+* The data was scraped from [sanook.com](https://www.sanook.com/) is ordered by most popular views for each category. 
 * there are 10 categories: [crime](https://www.sanook.com/news/tag/อาชญากรรม/),  [politics](https://www.sanook.com/news/tag/การเมือง/), [money](https://www.sanook.com/money/archive/), [technology](https://www.sanook.com/hitech/archive/), [sport](https://www.sanook.com/sport/archive/), [health](https://www.sanook.com/health/archive/), [horoscope](https://www.sanook.com/horoscope/archive/), [car](https://www.sanook.com/auto/archive/), [game](https://www.sanook.com/game/archive/), [entertain](https://www.sanook.com/news/archive/entertain/') 
-* i used Selenium and BeautifulSoup for scraping.
-* The code are in [sanook_web_scraping.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/sanook_web_scraping.ipynb "sanook_web_scraping.ipynb") or you can download it in [Google drive](https://drive.google.com/drive/folders/14iCuSBW-Ia31dhJgOVGdd4XSSdqntmbh?usp=sharing)
+* I scraped using Selenium and BeautifulSoup.
+* he source code can be found in [sanook_web_scraping.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/sanook_web_scraping.ipynb "sanook_web_scraping.ipynb") or you can download it from [Google drive](https://drive.google.com/drive/folders/14iCuSBW-Ia31dhJgOVGdd4XSSdqntmbh?usp=sharing)
 
 
 ## Method
 ### 1. Vector representation
 #### 1.1 Vector representation using Bag-of-Words (TF-IDF) 
-I use Bag-of-Words (TF-IDF) to create vector representation and use it as a baseline.
+I create vector representation using Bag-of-Words (TF-IDF) and use it as a baseline.
+
 <p align="center">
   <img src="https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/img/tf_idf.jpg?raw=true" alt="Bag-of-Words"/>
 </p>
@@ -29,7 +30,7 @@ I use Bag-of-Words (TF-IDF) to create vector representation and use it as a base
 * Sentence tokenization: CRF
 * Sentence embedding: The best model is [WangchanBERTa with SimCSE](https://huggingface.co/mrp/simcse-model-wangchanberta).
 * Weighted with number of Named-Entities
-After, Sentences are embedded to vector by Transformer model. The embedded vectors are weigthed by number of named entities of particular types in sentence. then use these formular to create Document vector representation
+After, Sentences are embedded to vector by Transformer model. The embedded vectors are weighted by number of named entities of particular types in sentence. then make Document vector representation using these formulas.
 
 $$
   v_{d} = \frac {\sum_{s \in d}w_{s} \times v_{s}} {\sum w_{s}}
@@ -51,7 +52,7 @@ km = KMeans(n_clusters=k, max_iter=100, n_init=55,)
 
 ## How to run code
 * **For web scraping** (you can skip this. we download it for you)
-	* Install library by run this code ```pip install -r requirements.txt```
+	* Install the library by running this command ```pip install -r requirements.txt```
 	* then run this notebook [sanook_web_scraping.ipynb](https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/sanook_web_scraping.ipynb "sanook_web_scraping.ipynb") with that environment
 
 * **Document clustering**
@@ -76,7 +77,7 @@ Evaluation by compare with Label.
 
 ## Discussion
 * I have tried a lot of Transformer model (BERT, RoBERTa, and WangchanBERTa) by adding pooling layer to get embedding vector shape (number_of_samples, 768). But they are not perform well in this task.
-* SimCSE model makes performance better
+* SimCSE improves the model's performance.
 * SimCSE model with Weighted with number of Named-Entities is the best in my experiments.
 
 ## Future work
