@@ -33,7 +33,9 @@ After, Sentences are embedded to vector by Transformer model. The embedded vecto
 
 $$
   v_{d} = \frac {\sum_{s \in d}w_{s} \times v_{s}} {\sum w_{s}}
-$$ $$ w_{s} = n_{s} + 1$$
+$$ 
+
+$$ w_{s} = n_{s} + 1$$
 
 where  n<sub>s</sub> denotes the number of named entities of particular types in sentence.
 This weighting scheme is adopted from https://ieeexplore.ieee.org/document/9085059
