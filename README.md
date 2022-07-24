@@ -22,7 +22,7 @@ I use Bag-of-Words (TF-IDF) to create vector representation and use it as a base
 
 #### 1.2 Vector representation using Transformer model
 <p align="center">
-  <img src="https://github.com/sanviiz/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/img/transformer.jpg?raw=true" alt="Transformer model"/>
+  <img src="https://github.com/sorayutmild/Unsupervised-Thai-Document-Clustering-with-Sanook-news/blob/main/img/transformer.jpg?raw=true" alt="Transformer model"/>
 </p>
 
 * Text cleaning: remove link, symbols, numbers, special characters
