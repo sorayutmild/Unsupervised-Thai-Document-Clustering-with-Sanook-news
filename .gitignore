@@ -1,6 +1,6 @@
-__pycache__/*
-csv_files/*
-text_files/*
-venv/*
+__pycache__
+csv_files
+text_files
+venv
 chromedriver.exe
-text_files.zip
+*.zip

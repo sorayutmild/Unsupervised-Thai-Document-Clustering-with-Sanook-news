@@ -1,6 +1,0 @@
-ไมโครซอฟต์เอาจริง! กำจัดเกมเถื่อนและฮาร์ดแวร์ผิดกฎหมายในวินโดวส์ 10
-Windows 10
-ไมโครซอฟต์เพิ่มมาตรการขั้นเด็ดขาดกับผู้ใช้งาน Windows 10 ด้วยการปิดการใช้งาน เกมส์, โปรแกรม หรืออุปกรณ์ฮาร์ดแวร์ต่างๆ ที่ผิดกฎหมายโดยอัตโนมัติ ในเงื่อนไขยอมรับข้อกำหนดการใช้งาน หรือ User Agreement ของ Windows 10 ตามรายงานจากเว็บไซต์ PC and Tech Authority
-ใน User Agreement หมวด 7b กล่าวไว้ว่า Microsoft “may automatically check your version of the software and  download software update or configuration changes, including those that  prevent you from accessing the Services, playing counterfeit games, or  using unauthorised hardware peripheral devices.”
-หมายความว่า ไมโครซอฟต์อาจทำการตรวจสอบข้อมูลเวอร์ชั่นของซอฟต์แวร์ที่ใช้อยู่หรือที่ดาวน์โหลดมาแบบอัตโนมัติ หากตรวจพบของที่ผิดกฎหมายก็มีสิทธิ์จะระงับการใช้งานทันที แต่ทั้งนี้ก็ยังไม่ทราบขอบเขตของการตรวจสอบการใช้งานโปรแกรมเถื่อนของ Windows 10 ว่าครอบคลุมมากแค่ไหน
-มาตรการนี้ไม่ได้แค่กับ PC เท่านั้น ยังอาจขยายไปถึง Windows 10 ในเครื่อง Xbox one และสมาร์ตโฟนด้วยเช่นกัน
