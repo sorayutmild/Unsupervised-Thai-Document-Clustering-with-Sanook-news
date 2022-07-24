@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 __pycache__/*
 csv_files/*
 text_files/*
 venv/*
 chromedriver.exe
 text_files.zip
-=======
-__pycache__
-csv_files
-text_files
-venv
-chromedriver.exe
->>>>>>> 463942a047ef37ed2a708e461ac6b8f184ae67f7
