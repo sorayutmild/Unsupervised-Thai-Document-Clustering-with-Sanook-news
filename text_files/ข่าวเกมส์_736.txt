@@ -1,0 +1,45 @@
+Razer Edge
+Razer Edge เครื่องแท็บเล็ตที่ทาง Razer คิดค้นขึ้นเพื่อเกมเมอร์ชาว PC ที่อยากจะได้อิสระในการเล่นเกมส์มากขึ้น เพราะปกติเวลาเล่นเกมส์ PC ส่วนมากก็ต้องนั่งหน้าจอ Desktop หรืออย่างดีก็เล่นกับ Laptop ที่แม้ว่าจะพกพาไปไหนก็ได้ แต่เวลาเล่นก็ต้องนั่งอยู่กับที่อยู่ดี ต่างกับการเล่นเกมส์บนเครื่องพกพา สมาร์ทโฟนหรือแท็บเล็ต ที่เดินเล่น นั่งเล่น นอนเล่น ได้สะดวกกว่า ซึ่ง Razer Edge ก็เป็นเครื่องแท็บเล็ตที่ทำออกมาเพื่อการนี้นั่นเอง เปิดตัวไปครั้งแรกในงาน CES 2012 ชื่อว่า Project Fiona ก่อนจะเผยชื่อเครื่องเป็น Razer Edge และวันนี้ก็ได้วางจำหน่ายแล้ว เมื่อวันที่ 28 มีนาคม 2013
+ 
+Razer Edge ใช้ระบบปฏิบัติการณ์แบบ Windows 8 เช่นเดียวกับแท็บเล็ตของ MS อย่าง Surface แต่มีสเปคเครื่องที่สูงออกแบบมาเพื่อใช้สำหรับเล่นเกมส์โดยเฉพาะ สามารถเล่นเกมส์ใหม่ๆอย่าง Bioshock Infinite ได้อย่างสบายๆ มีพลังพอๆกับเครื่อง Desktop รุ่นกลางๆเลยทีเดียว แม้ว่ามันจะไม่สามารถปรับภาพสูงถึงระดับ Ultra ได้ เพราะแรงไม่พอ แต่แค่เล่นกราฟฟิกระดับกลางได้ แค่นั้นเกมเมอร์ PC ก็ Fin แล้ว ที่จะสามารถหยิบมันไปเล่นที่ไหนก็ได้ นอกจากการนั่งหน้าจอ โดยจากการทดสอบกราฟฟิกระดับกลาง จะมี Frame Rate ที่ 60 FPS แต่ถ้าปรับสูงล่ะก็ Frame Rate จะตกลงมาประมาณ 15-20 FPS ทันที กระตุกจนแทบเล่นไม่ได้เลยล่ะ
+Razer Edge
+Razer Edge
+ 
+Razer Edge มีให้เลือก 2 รุ่นสองราคา
+- เริ่มจาก Razer Edge รุ่นปกติ จะมี CPU Intel Core i5 Dual core w/ Hyper Threading Base 1.7GHz / Turbo 2.6GHz , RAM 4GB DDR3 1600MHz , การ์ดจอ Intel HD4000 (DX11) NVIDIA GT 640M LE (2GB DDR3, Optimus Technology) และฮาร์ดดิส 64GB SSD รุ่นปกติจะถูกกว่าที่ $999 ประมาณ 30,000 บาท (นี่รุ่นถูกแล้วนะ)
+- ส่วนรุ่นที่แพงกว่าคือ Razer Edge Pro จะมี CPU Intel Core i7 Dual core w/ Hyper Threading Base 1.9GHz / Turbo 3.0GHz , RAM 8GB DDR3 (2x4GB 1600MHz) , การ์ดจอ Intel HD4000 (DX11)  NVIDIA GT 640M LE (2GB DDR3, Optimus Technology) และฮาร์ดดิส 128GB SSD รุ่นนี้ราคา $1299 ประมาณ 39,000 บาท แต่ถ้าอยากได้ฮาร์ดดิสเพิ่มเป็น 256GB SSD จะราคา $1449 หรือประมาณ 43,500 บาท
+ส่วนสเปกอื่นๆจะเหมือนกันดังนี้
+
+10.1" (IPS, 1366x768)
+Multi-touch HD display
+Windows 8
+128/256GB SSD (SATA-III)
+Intel WLAN (802.11b/g/n + BT4)
+Stereo speakers
+Codec supports 7.1 (via HDMI through optional Docking Station)
+HD Webcam (front-facing, 2MP)
+Array microphones
+Dolby Home Theater v4
+USB 3.0 x1 (green, SuperSpeed)
+Audio jack (3.5mm, 4-pole, stereo out / mic in)
+Approximate Size: 278.5 mm x 178.85 mm x 19.5 mm / 10.9" x 7" x .80"
+Approximate Weight: 962g / 2.1Lbs
+
+เนื่องจาก Razer Edge เป็นแท็บเล็ต ก็เลยจะไม่มีช่องเล่นแผ่น DVD หรืออื่นเหมือน PC ดังนั้นเกมส์ที่จะเล่นจะเป็นเกมส์ที่ดาวน์โหลดเอาซะส่วนใหญ่ ไม่จาก Steam ก็จากที่อื่นๆ หรือจะใช้ไดร์ฟแบบ USB ต่อเอาเวลาจะติดตั้งเกมส์ก็ได้นะ
+เทียบขนาดกับเครื่องอื่นๆ
+Razer Edge
+Razer Edge จะมีคอนโทรลเลอร์ ที่ใช้สำหรับติดตั้งข้างๆตัวเครื่อง สำหรับเล่นเกมส์ด้วย แต่ว่าต้องซื้อแยกต่างหาก ราคาก็แพงเอาการที่ $249.99 หรือ 7,500 บาท ถ้าไม่มีงบ เราก็สามารถใช้จอยคอนโทรลเลอร์ USB สำหรับ PC หรือจอย Xbox360 มาต่อเล่นเอาแทนก็ได้เช่นกัน ส่วนแบตเตอรี่ของ Razer Edge นั้นสามารถเล่นได้นานถึง 8 ชั่วโมงเลยทีเ้ดียว
+ 
+คลิปวีดีโอรีวิวสั้นๆ
+
+
+
+
+
+ 
+ 
+ข้อมูลอ้างอิงจาก
+
+http://www.razerzone.com/store/razer-edge-pro
+http://kotaku.com/razer-edge-pro-pc-gaming-tablet-the-kotaku-review-461511423
+ภาพจาก www.theverge.com

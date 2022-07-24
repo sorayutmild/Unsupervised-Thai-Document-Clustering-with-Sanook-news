@@ -1,0 +1,44 @@
+เกมส์ crysis 3
+ในที่สุด Crysis 3 เกมส์ยิงกราฟ ฟิกสวยเวอร์จาก Crytek ที่สร้างขึ้นด้วยพลังของ CryEngine 3  ตัวใหม่ล่าสุดก็ออกมาให้ได้เล่นกันไปเมื่อปลายเดือนกุมภาพันธ์ที่ผ่านมา  บางท่านก็อาจจะได้เล่นและจบกันไปแล้วด้วย  แต่คำถามต่อมาที่อยากจะรู้ก็คือตอนที่เล่นนั้นได้ลองปรับภาพกราฟิกแบบสูงสุด ดูหรือยัง เพราะเกมระดับนี้อย่างเกมส์ Crysis 3 การจะปรับภาพให้สูงสุดเล่นนั้น ต้องใช้สเปกเครื่องที่สูงมากทีเดียว  โดยเฉพาะการ์ดจอ งั้นเรามาลองดูสถิติเปรียบเทียบกันดูดีกว่าว่า  การ์ดจอรุ่นไหนที่ใช้เล่นเกมส์ Crysis 3 ได้เทพที่สุด
+เกมส์ crysis 3
+เกมส์ crysis 3
+รูปแบบการทดสอบ
+เครื่อง PC ที่จะใช้ทดสอบนั้นจะเป็นเครื่อง PC ตัวเดียวกันที่ใช้ CPU,  Ram, Windows และ HDD ตัวเดียวกันทั้งหมด โดยจะใช้วินโดวส์ Microsoft  Windows 7 SP1 64-bit ใช้ DirectX 11 ในการทดสอบ มี CPU คือ Intel Core  i7-3960X Extreme Edition (3.30GHz) , RAM 4GB G.Skill DDR3-1600 (CAS  8-8-8-20) 4 ตัว (ทั้งหมด 16GB), Power Supply Unit OCZ ZX Series 1250w,  HDD Crucial m4 512GB (SATA 6Gb/s) , และติดตั้งไดร์ฟเวอร์ของ GPU  รุ่นใหม่ล่าสุดจากทั้งสองค่ายคือ Nvidia Forceware 314.07 และ AMD Catalyst  13.2 (Beta 6)
+ส่วน GPU จากทั้งสองค่ายนั้นจะเลือกใช้เฉพาะการ์ดจอเดี่ยว  เราไม่นับการ์ดจอคู่ที่น่าจะเล่นได้แรงสบายๆอยู่แล้ว  โดยการ์ดจอเดี่ยวที่นำมาทดสอบมีดังนี้
+
+Gigabyte Radeon HD 7970 GHz Edition (3072MB)
+Gigabyte Radeon HD 7970 (3072MB)
+Gigabyte Radeon HD 7950 Boost (3072MB)
+Gigabyte Radeon HD 7950 (3072MB)
+AMD Radeon HD 7870 (2048MB)
+AMD Radeon HD 7850 (2048MB)
+HIS Radeon HD 7770 (1024MB)
+HIS Radeon HD 6970 (2048MB)
+Gigabyte GeForce GTX 680 (4096MB)
+Gigabyte GeForce GTX 680 (2048MB)
+Gigabyte GeForce GTX 670 (2048MB)
+Gigabyte GeForce GTX 660 Ti (2048MB)
+Gigabyte GeForce GTX 660 (2048MB)
+Gigabyte GeForce GTX 650 Ti (2048MB)
+Gigabyte GeForce GTX 580 (1536MB)
+Gigabyte GeForce GTX 560 Ti (1024MB)
+Nvidia GeForce GTX 480 (1536MB)
+
+การทดสอบจะแบ่งเป็นสองประเภท คือปรับกราฟิกแบบสูง หรือ High Quality  Performance แล้วเทียบขนาดความละเอียดต่างๆกัน  ตามด้วยปรับเป็นแบบเกือบสูงสุด หรือ Very High Quality Performance  ส่วนแบบสูงสุดคือ Ultra High นั้นไม่มีการทดสอบ
+ทดสอบกราฟฟิกระดับ High Quality Performance
+เกมส์ crysis 3
+เกมส์ crysis 3
+เกมส์ crysis 3
+ 
+ทดสอบกราฟฟิกระดับ High Quality Performance
+ 
+เกมส์ crysis 3
+เกมส์ crysis 3
+เกมส์ crysis 3
+สรุปผลการทดสอบจะเห็นได้ว่า การ์ดจอจากค่ายเขียว Nvidia นั้นสามารถใช้เล่นเกมส์ Crysis 3 ได้มีประสิทธิภาพกว่าการ์ดจอจากค่ายแดงในทุกๆระดับกราิฟฟิกและทุกระดับความ ละเอียดภาพ แม้ว่าการ์ดจอของค่ายเขียวจะมีแรมการ์ดจอน้อยกว่าก็ตาม
+ 
+ข้อมูลอ้างอิงและภาพจาก
+
+http://www.techspot.com/review/642-crysis-3-performance/
+
+นอกจากนี้ทาง Techspot ยังมีเทสกราฟฟิกระดับ Medium กับเทส CPU ด้วย สามารถเข้าไปดูเพิ่มเติมได้

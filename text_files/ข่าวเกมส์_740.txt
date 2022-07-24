@@ -1,0 +1,19 @@
+ในที่สุดทาง Konami ก็ออกมาบอกถึงสเป็คคอมที่ต้องใช้สำหรับการรันเกม PES 2014 แล้ว จะเป็นอย่างไรมาดูกัน
+PES 2014
+
+Minimum system requirements
+Operating System: Win Xp 32, Vista, Windows 7
+Graphic Card: GeForce 510, Radeon HD 5450 512MB
+CPU: Pentium D 820 2.8GHz, Athlon LE-1640
+RAM: 1 GB
+HDD: 10 GB
+DirectX: 9.0c
+PES 2014
+
+Recommended system requirements
+Operating System: Win Xp 32, Vista, Windows 7, Windows 8
+Graphic Card: GeForce GT 440, Radeon HD 5550 1024MB
+CPU: Core 2 Duo E7400 2.80GHz, Athlon II X2 255
+RAM: 4 GB
+HDD: 10 GB
+DirectX: 9.0c  Credit: http://www.dsogaming.com/news/pro-evolution-soccer-2014-pc-system-requirements-revealed/

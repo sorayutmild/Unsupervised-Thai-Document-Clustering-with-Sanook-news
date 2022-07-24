@@ -1,0 +1,83 @@
+ชื่อรุ่น : BlackBerry Bold 9700ชื่อบริษัทเจ้าของ : BlackBerryราคากลาง : 14900ราคาเปิดตัว : 14900รูปขนาดเล็ก : รูปขนาดใหญ่ : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : ลักษณะเด่นประจำรุ่นโทรศัพท์มือถือจอแสดงผลแบบ TFT LCD 65,536 สี ความละเอียด 480x360 Pixels (HVGA : กว้าง 2.44 นิ้ว) พร้อม Keyboard แบบ Full QWERTY ในตัวหน่วยความจำภายในขนาด 256 MB พร้อมรองรับการ์ดหน่วยความจำเสริมภายนอกแบบ microSD Card (TransFlash) ได้สูงสุดขนาด 16 GBเชื่อมต่อ HTML Browser ผ่านระบบ WiFi, HSDPA, EDGE หรือ GPRS Class 10 พร้อมการเชื่อมต่อข้อมูลแบบไร้สายผ่าน Bluetoothระบบ GPS ในตัว (Global Positioning System : ระบบดาวเทียมนำร่อง) พร้อมฟังก์ชัน A-GPSกล้องดิจิตอลในตัว ความละเอียดระดับ 3.2 ล้าน Pixels (2048x1536 Pixels), ไฟแฟลช, ระบบโฟกัสภาพอัตโนมัติ, ระบบป้องกันการสั่นไหวของรูปภาพรายละเอียดตัวเครื่องเบื้องต้น•  ระบบสัญญาณ Dual Mode (WCDMA/GSM)
+
+ - WCDMA/HSDPA Tri Band (850/1900/2100 MHz)
+
+ - GSM Quad Band (850/900/1800/1900 MHz)
+•  ขนาด 109x60x14.1 มิลลิเมตร
+•  น้ำหนัก 122 กรัม
+•  ชนิดจอแสดงผลแบบ TFT LCD 65,536 สี ความละเอียด 480x360 Pixels (HVGA : กว้าง 2.44 นิ้ว)
+•  ชนิดแบตเตอรี่ Li-Ion 1500 mAh
+•  ระยะเวลารอรับสายสูงสุด ประมาณ 504 ชั่วโมง (GSM) หรือ 408 ชั่วโมง (WCDMA)
+•  ระยะเวลาสนทนาสูงสุด ประมาณ 6 ชั่วโมง
+•  ระยะเวลาการฟังเพลงต่อเนื่องสูงสุด ประมาณ 38 ชั่วโมง
+•  ประมวลผลการทำงานด้วย Processor ความเร็วในการประมวลผล 624 MHz
+•  ขับเคลื่อนการทำงานด้วยระบบปฏิบัติการ BlackBerry OS เวอร์ชัน 5.0
+•  หน่วยความจำภายในขนาด 256 MB
+•  รองรับการ์ดหน่วยความจำเสริมภายนอกแบบ microSD Card (TransFlash) ได้สูงสุดขนาด 16 GB
+
+ - แถมฟรี microSD Card ขนาด 2 GB มาพร้อมชุดขายมาตรฐาน
+•  หน่วยความจำสมุดโทรศัพท์
+•  บันทึกข้อมูลการโทร (โทรออก, รับสาย, ไม่รับสาย)
+•  ปุ่มควบคุมการทำงานแบบสัมผัส (Touch-Sensitive Optical Trackpad Navigation)
+•  Keyboard แบบ Full QWERTY ในตัว (35 Key Backlit QWERTY Keyboard)
+•  ปุ่มกดสำหรับการใช้งานฟังก์ชัน Send, End, VAD (User Customizable), Camera (User Customizable) และ Volume/Zoomคุณสมบัติข้อความ•  SMS (Short Messaging Service)
+•  MMS (Multimedia Messaging Service)
+•  Email
+
+ - รองรับการใช้งานระบบ Push Email
+•  Instant Messaging
+•  ระบบสะกดคำอัตโนมัติ (T9)คุณสมบัติการเชื่อมต่อ•  HTML Browser
+•  WiFi (WLAN : Wireless LAN : 802.11 a/b/g)
+
+ - รองรับ UMA (Unlicensed Mobile Access)
+•  HSDPA (3.6 Mbps)
+•  EDGE Class 10 (236.8 kbps)
+•  GPRS Class 10 (4+1/3+2 slots : 32 - 48 kbps)
+•  Bluetooth เวอร์ชัน 2.1
+
+ - รองรับการเชื่อมต่อใช้งานกับหูฟัง Bluetooth แบบ Stereo (A2DP)
+
+ - รองรับการใช้งานรีโมทไร้สาย (AVRCP)
+
+ - รองรับ Bluetooth SIM Access Profile
+•  USB Data Cable (microUSB : USB เวอร์ชัน 2.0)
+•  ช่องต่อสายหูฟังมาตรฐานขนาด 3.5 มิลลิเมตร
+•  ระบบ GPS ในตัว (Global Positioning System : ระบบดาวเทียมนำร่อง)
+
+ - ฟังก์ชัน A-GPS ในตัว (Assisted Global Positioning System)
+
+ - ค้นหาข้อมูลแผนที่ผ่านทางโปรแกรม BlackBerry Mapsคุณสมบัติทั่วไป•  เสียงเรียกเข้าแบบ Polyphonic Ringtones 32 ชิ้นเครื่องดนตรี
+
+ - รองรับไฟล์เสียงเรียกเข้าแบบ MP3, MIDI, SP-MIDI, WAV
+
+ - แสดงรูปภาพขณะมีสายเรียกเข้า (Photo Caller ID)
+
+ - ระบบสั่นในตัว
+•  นาฬิกาบอกเวลา
+•  ตั้งปลุก
+•  โปรแกรม Organizer
+•  ปฏิทินพร้อมบันทึกนัดหมาย
+•  เครื่องคิดเลข
+•  โปรแกรมเล่นไฟล์เพลง MP3, WMA9 (.wma/.asf), WMA9 Pro, WMA 10, MIDI, AMR-NB, AAC, AAC+, eAAC+
+•  โปรแกรมเล่นไฟล์วิดีโอ DivX 4, DivX 5/6, XviD, H.263, H.264, WMV3, MPEG4, Sorenson Spark และ On2 VP6 (รองรับ Flash)
+•  โปรแกรมเปิดอ่านและแก้ไขไฟล์เอกสาร Word, Excel, PowerPoint, PDF
+•  โทรออกด้วยเสียง
+•  บันทึกเสียง
+•  Handsfree และ Speakerphone ในตัวคุณสมบัติอื่นๆ ที่น่าสนใจ•  กล้องดิจิตอลในตัว ความละเอียดระดับ 3.2 ล้าน Pixels
+
+ - ความละเอียดสูงสุดของภาพถ่าย 2048x1536 Pixels
+
+ - ไฟแฟลชในตัว (LED Flash)
+
+ - ซูมภาพแบบดิจิตอลได้ 2 ระดับ (Digital Zoom)
+
+ - ระบบโฟกัสภาพอัตโนมัติ (Auto Focus)
+
+ - ระบบป้องกันการสั่นไหวของรูปภาพ (Image Stabilization)
+
+ - ถ่ายภาพวิดีโอ (480x352 Pixels)
+•  ไฟ LED แสดงสถานะการทำงานของตัวเครื่อง
+•  รองรับ Java Applications (MIDP 2.0)
+•  เกมส์ในเครื่อง
+•  เปิดตัวครั้งแรก เมื่อ เดือนตุลาคม ปี ค.ศ. 2009
+•  กำหนดการออกวางจำหน่าย เดือนพฤศจิกายน ปี ค.ศ. 2009ราคาร้าน J Mart : 14,900ราคาร้าน TG fone : 16,500อัพเดทลราคาล่าสุด : 22 สิงหาคม 2554ข้อมูลเพิ่มเติม : http://www.thaimobilecenter.com/spec/BlackBerry_Bold_9700.asp

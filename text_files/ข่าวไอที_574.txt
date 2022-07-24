@@ -1,0 +1,23 @@
+Facebook: วิธีปิด Facebook Timeline กลับไปใช้งาน Profile แบบเก่าสำหรับ Chrome, Firefox, Safari!
+
+
+ 
+
+Facebook Timeline - หลังจากทาง Facebook เปิดให้ผู้ใช้งานใช้ Facebook Timeline ได้แล้ว และเร็วๆ นี้ก็จะปรับโปรไฟล์ของทุกคนเป็นแบบ Timeline กันหมด ซึ่งมีบางท่านลองใช้งานแล้วแต่ไม่ชอบใจ และหากเมื่อทาง Facebook มีการเปลี่ยนแปลงจริงๆ ก็คงต้องทน Timeline กันไป แต่ตอนนี้เรามีทางแก้มานำเสนอครับ ลองนำไปทดสอบกันดูครับ
+
+สำหรับ Firefox
+01. ติดตั้ง Add-Ons ชื่อว่า “User Agent Switcher” ลงบน Firefox เสร็จแล้ว Restart Firefox02. ไปที่เมนู Tools > Default User Agent > Internet Explorer > Internet Explorer 7
+
+สำหรับ Safari
+01. ไปที่ Edit > Preferences > Advanced ติ๊กเลือกช่อง Show Develop menu in menu bar เพื่อเปิดใช้งานฟีเจอร์ Develop
+
+02. ไปที่ Develop เลือก User Agent และเลือก Internet Explorer 7
+
+สำหรับ Google Chrome
+01. คลิกขวา เลือก Properties ที่ Shortcut Google Chrome02. ไปที่ช่อง Target จากนั้นคัดลอกโค้ด ไปวางต่อท้าย chrome.exe โดยให้เว้น 1 วรรคก่อนแล้วค่อยวางโค้ดโค้ดสำหรับผู้ใช้ Windows 7/Vista–user-agent=”Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)”โค้ดสำหรับผู้ใช้ Windows XP–user-agent=”Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)”
+
+03. กด Ok แล้วเปิดใช้งานครับ
+ 
+เพียงเท่านี้หน้าโปรไฟล์ของเราก็จะกลายเป็นแบบเก่าแล้วครับ แต่การแสดงผลจะไม่สมบูรณ์ 100% นะครับ และการปรับแต่งตรงส่วนนี้จะทำให้เกิดผลกับทุกเว็บไซต์ที่เปิดใช้งานครับ ซึ่งจริงๆ แล้วมันเป็นการเรียกเปิด IE7 มาใช้งานครับ
+บทความโดย: ป๋าเอก TechXcite
+ที่มา: ibook.infopress.co.th

@@ -1,0 +1,22 @@
+Assassin's Creed Rogue ลง PC แล้วพร้อมสเปกทางการ
+Assassin's Creed Rogue
+Assassin's Creed Rogue เป็นเกมจากซีรี่ส์ลัทธินักฆ่าของ Ubisoft ภาคสุดท้ายที่ทำลงให้ชาว PS3 และ Xbox360 ได้เล่นกันส่งท้าย ก่อนที่จะข้ามมาทำลงเครื่องยุคใหม่ในภาค Assassin's Creed Unity ของ PS4 และ Xbox one ซึ่งจริงๆแล้ว Assassin's Creed Rogue แม้จะเป็นเนื้อเรื่องที่อยู่ช่วงระหว่างภาค Assassin's Creed 3 และ 4 แต่ก็มีเนื้อเรื่องที่เชื่อมโยงมายังภาค Assassin's Creed Unity ด้วย จึงแนะนำให้ผู้ที่ติดตามเนื้อเรื่องของเกมนี้หามาเล่นกัน จะได้รู้เรื่องราวมากขึ้น โดยตอนนี้ออกมาให้เล่นในเวอร์ชั่น PC แล้วหาโหลดมาเล่นกันได้ทั้งทาง Steam และอื่นๆ
+สเปกเครื่อง PC สำหรับเล่น Assassin's Creed Rogue อย่างเป็นทางการ 
+
+ OS: Windows 7 SP1 or Windows 8/8.1 (64bit versions only) 
+Processor: Intel Core2Quad Q6600 @ 2.4 GHz or AMD Athlon II X4 620 @ 2.6 GHzH 
+Memory: 2 GB RAM 
+Graphics: nVidia GeForce GTS450 or AMD Radeon HD5670 (1024MB VRAM) or Intel HD4600 
+Hard Drive: 11.4 GB available space 
+Sound Card: DirectX 9.0c compatible sound card with latest drivers 
+Peripherals: Xbox 360 controller, Tobii EyeX Controller, SteelSeries Sentry 
+Additional Notes: Windows-compatible keyboard and mouse required, optional controller
+
+การ์ดจอที่รองรับเป็นทางการ:
+
+ NVIDIA GeForce GTS 450 or better 
+GeForce 500, 600, 700, 900 series 
+AMD Radeon HD 5670 or better, Radeon HD 6000, 7000, R7, R9 series 
+Intel HD4600, HD5200
+
+Assassin's Creed Rogue เล่าถึงเรื่องราวของ  Shay Patrick Cormac นักฆ่าหนุ่มไฟแรงสมาชิกใหม่ของ  Assassins order  ซึ่งเขาปฎิบัติภารกิจให้องค์กรอย่างตั้งใจ   แต่วันหนึ่งหลังจากที่เขาปฎิบัติภารกิจสำเร็จ   เขาก็ถูกเพื่อนนักฆ่าในองค์กรที่เขานับถือหักหลัง และคิดจะฆ่าเขาปิดปาก   ทำให้เขาไม่สามารถอยู่ใน Assassins order ได้อีกต่อไป   และไปเข้ากับกลุ่มล่านักฆ่า หรือก็คือพวก Templar แทน   ซึ่งเป้าหมายของเขาก็คือการตามล่า ล้างแค้นพวกนักฆ่าอดีตพวกพ้องของเขา   ที่จ้องจะเอาชีวิตของเขาให้หมดสิ้น แต่ทั้งนี้แม้เขาจะเป็นผู้ล่านักฆ่า   แต่เขาก็ไม่ได้สังกัดฝ่าย Templar เต็มตัว แต่เป็นองค์อิสระของเเขาเอง   ซึ่งระบบเกมจะให้ผู้เล่นได้สร้างสังกัด Creed ของ Shay ได้เองด้วย

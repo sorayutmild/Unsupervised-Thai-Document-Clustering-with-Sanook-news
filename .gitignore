@@ -1,0 +1,5 @@
+__pycache__
+csv_files
+text_files
+venv
+chromedriver.exe

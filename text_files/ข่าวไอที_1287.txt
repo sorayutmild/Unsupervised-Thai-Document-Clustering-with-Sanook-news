@@ -1,0 +1,67 @@
+Nokia 3310 คืนชีพ จัดเต็มกล้อง 41MP
+เมื่อตำนานมือถือที่อึดถึกทนที่สุดในจักรวาล เขวี้ยงใส่ฝาบ้านยังไม่พัง ตกตึก 10 ชั้นแค่แบตกระเด็น ได้กลับมาอีกครั้งพร้อมปลุกเสกเอาพลัง Pureview Camera 41MP เลนส์ Carl Zeiss ใส่ Xenon Flash เข้าไป มีหรือที่คุณจะปฏิเสธลง
+
+
+แถมรอบนี้ยังมาพร้อมระบบปฏิบัติการ Windows 8 ให้คุณได้เพลิดเพลินกับความเป็นสมาร์ทโฟนติดตั้งแอพเพิ่มได้ มีปุ่มกด 3 ปุ่มสำหรับความสะดวกในการควบคุมตัวเครื่อง อัดความแรงด้วย CPU dual-core, RAM 2GB และ หน่วยความจำภายใน 32GB เท่านั้นยังไม่พอ ใส่ microSD เพิ่มได้ด้วย ฮือฮาตอนรับวันโกหกกันครับ!! 1 เมษายน วันโกหก april fool's day 
+ที่มา: conversations.nokia.com , www.facebook.com/Apple.Ref
+Specifications
+Dimensions
+Height: 113 mm
+Width: 48 mm
+Thickness: 22 mm
+Weight: 133 g
+Display and User Interface
+Display size: 3-inch ‘ClearDiamond'
+Display resolution: WXGA (1280 x 768)
+Display features: Brightness control, Nokia Glance screen, Refresh rate 60 Hz, Sunlight readability enhancements, Corning® Gorilla® Glass 3, PureMotion HD+, Sculpted glass, Wide viewing angle
+Display colors: TrueColor (24-bit/16M)
+Touch screen technology: Super sensitive touch
+Sensors: Ambient light sensor, Accelerometer, Proximity sensor, Barometer,
+Gyroscope, Magnetometer
+Keys and Input Methods
+User Input: Touch + Softkey
+Operating keys: Volume keys, Camera key, Power/Lock key, Microsoft Home, Navigation keys.
+Hardware
+Connectivity
+SIM card type: Micro SIM
+Charging connectors: Micro-USB
+AV connectors: 3.5 mm audio connector
+Bluetooth: Bluetooth 4.0
+Wi-Fi: WLAN IEEE 802.11 a/b/g/n
+Network: 3G
+Battery:
+Battery capacity: 1430 mAh
+Battery voltage: 3.7 V
+Removable battery: Yes
+Wireless charging: No
+Processor
+Processor type: Dual-core 1.5 GHz
+Memory
+User data storage: In device
+RAM: 2 GB
+Mass memory3: 32 GB
+Free cloud storage: 7 GB
+Photography
+Primary camera sensor size: 41 MP, PureView
+Camera Focus Type: Auto focus
+ZEISS optics: Yes
+Sensor size: 1/1.5 inch
+Main camera f-number/aperture: f/2.2
+Camera focal length: 26 mm
+Camera minimum focus range: 15 cm
+Camera image formats: JPEG
+Camera Flash Type: Xenon flash
+Flash operating range: 4.0 m
+Flash modes: Off, Automatic, On
+Main camera features
+Main camera - other features: 6-lens optics, Backside-illuminated image sensor, High resolution zoom 3x, Optical image stabilization, PureView
+Image capturing
+Capture modes: Video, Still
+Scene modes: Automatic, Sports, Night
+White balance modes: Cloudy, Incandescent, Fluorescent, Daylight, Automatic
+Light sensitivity: Automatic, ISO 100, ISO 200, ISO 400, ISO 800, ISO 1600, ISO 3200
+Video
+Camera video resolution: 1080p (Full HD, 1920 x 1080)
+Camera video frame rate: 30 fps
+Camera video zoom: 6 x
+Video playback frame rate: 30 fps

@@ -1,0 +1,13 @@
+กลับคืนสู่ป่า! Niantic ริบโปเกม่อนในตำนานคืนจากผู้เล่น Pokemon GO
+Pokemon GO
+หลังจากเกม Pokemon GO อัพเดทตัวเกมครั้งใหญ่ ก็ทำให้เกิดบั๊กกับเกมหลายอย่าง และที่เป็นบั๊กใหญ่สุดก็คือ บั๊กที่ทำให้โปเกม่อนระดับตำนาน โผล่ออกมาให้จับในบางจุด ซึ่งมีผู้เล่นจำนวนหนึ่งในเมือง โอไฮโอ ประเทศสหรัฐอเมริกาจับโปเกม่อนในตำนานที่ว่านี้ได้ ซึ่งมันก็คือ Articuno หรือ Freezer ในภาคญี่ปุ่น ทำให้กลายเป็นข่าวดังว่ามีโปเกม่อนในตำนานออกมาให้จับแล้ว ผู้เล่นจึงตื่นตัวกันมาก
+แต่เมื่อทาง IGN ได้ลองสอบถามไปยัง Niantic ผู้พัฒนาเกม ก็ได้คำตอบไปอีกอย่างว่า มันเป็นความผิดพลาดของระบบเกม เพราะจริงๆแล้วเขายังไม่ปล่อยโปเกม่อนในตำนานออกมาให้จับตอนนี้ แต่ต้องเป็นจากในอีเว้นต์หรือกิจกรรมเกี่ยวกับ Team ภายหลัง ดังนั้นโปเกม่อนในตำนานที่ผู้เล่นบางคนจับได้นั้น จะต้องถูกถอดออกจากแอคเคาน์
+We recently noticed that a few Legendary Pokemon got into a few  accounts when they shouldn’t have, To preserve the game’s integrity and  as a measure of fairness, we have rectified the situation and revoked  the legendary Pokemon from the Trainers’ accounts.
+โดยทาง Niantic ได้ส่งอีเมลแจ้งไปยังผู้เล่นที่มีโปเกม่อนในตำนานแล้ว และจัดการถอดโปเกม่อนออกไปจากแอคเคาน์แล้วด้วย ทำให้ตอนนี้ไม่มีผู้เล่นใดที่มีโปเกม่อนในตำนานอยู่แน่นอน
+Pokemon GO
+อย่างไรก็ตามมีรายงานบางแหล่งแจ้งว่า ความจริงแล้วทาง Niantic ยังไม่ได้ปลดโปเกม่อนในตำนานออกมาเลยด้วยซ้ำ แต่ผู้เล่นที่ได้มันมาอาจใช้การ Hack ข้อมูลดึงมันออกมา
+ 
+Source:
+
+http://www.ign.com/articles/2016/08/03/pokemon-go-dev-revokes-legendary-pokemon-from-trainer-accounts-following-articuno-appearance
+http://kotaku.com/niantic-takes-away-legendaries-from-pokemon-go-cheaters-1784775980

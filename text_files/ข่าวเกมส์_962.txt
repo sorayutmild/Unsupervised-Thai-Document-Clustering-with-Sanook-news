@@ -1,0 +1,10 @@
+มาแล้ว! สเปค PC สุดโหดสำหรับเล่นเกม Project Cars
+Project Cars
+เพิ่งปล่อยภาพ Screenshot สวยราวกับของจริงชุดใหม่มาหมาดๆ ล่าสุดทางทีม Slightly Mad Studios ผู้สร้างเกม Project Cars (และ Need for Speed Shift) ก็ออกมาให้ข้อมูลใหม่เกี่ยวสเปคเครื่อง PC ที่ต้องใช้ในการเล่นเกม Project Cars นี้อย่างเป็นทางการ โดยหากผู้เล่นต้องการแค่เล่นได้ก็ใช้แค่สเปคขั้นต่ำ แต่ถ้าอยากได้ภาพสมจริงเหมือนกับตัวอย่างภาพ Screenshot ล่ะก็ ต้องใช้รุ่นที่แนะนำเท่านั้น
+MINIMUM SPEC: -CPU - 2.66 GHz Intel Core 2 Quad Q8400, 3.0 GHz AMD Phenom II X4 940 -GRAPHICS - nVidia GTX 260, ATI Radeon HD 5770 -MEMORY - 4Gb RAM, 1Gb VRAM
+RECOMMENDED SPEC: -CPU - 3.5 GHz Intel Core i7 3700, 4.0 GHz AMD FX-8350 -GRAPHICS - nVidia GT600 series, AMD Radeon HD7000 series -MEMORY - 8Gb RAM, 2Gb VRAM
+Project Cars
+เนื่องจากเป็นเกมที่กราฟิกมี Texture ความละเอียดค่านข้างมากก็เลยต้องใช้ CPU, GPU ที่แรงและ RAM ที่เยอะพอสมควร ยิ่งถ้าจะเล่นกับทีวีความละเอียดสูง RAM ก็ต้องยิ่งเยอะขึ้นด้วย โดยหากใช้ทีวี 4K ก็ต้องใช้ GPU VRAM ถึง 2GB จึงจะเอาอยู่
+Project Cars เป็นเกมแข่งรถแบบ Sandbox ที่ให้อิสระในการเล่นกับผู้เล่นและมีระบบการแข่งที่สมจริง คล้ายกับเกม Gran Turismo และ Forza Motorsport มารวมกัน ซึ่งทั้งคู่เป็นเกมแข่งรถที่ได้รับความนิยมสูง Project Cars ก็เลยเอาจุดเด่นของทั้งสองเกมมาสร้างนั่นเอง แถมยังได้เอนจิ้น Madness engine ตัวใหม่ที่พัฒนาขึ้นจากตอนสร้าง Need for Speed Shift ทำให้ภาพของเกม Project Cars ออกมาสวยสมจริงกว่าเกมรถแข่งอื่นๆ
+Project Cars กำหนดออกมาให้เล่นในปี 2015 ในแพรตฟอร์ม PS4, Xbox one, PC และ Wii U
+Project Cars

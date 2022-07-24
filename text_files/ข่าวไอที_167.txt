@@ -1,0 +1,183 @@
+ชื่อรุ่น : Samsung Galaxy Note II (Galaxy Note 2)ชื่อบริษัทเจ้าของ : Samsungรูปขนาดเล็ก : รูปขนาดใหญ่ : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : ลักษณะเด่นประจำรุ่นโทรศัพท์มือถือจอแสดงผลแบบ HD Super AMOLED Capacitive Touchscreen 16,700,000 สี ความละเอียด 1280x720 Pixels (HD 720p : กว้าง 5.55 นิ้ว : 267 ppi : อัตราส่วน 16:9) พร้อมหน่วยประมวลผลภาพกราฟฟิคโดยเฉพาะแบบ Mali-400MPรองรับการใช้งานร่วมกับปากกา S Pen Stylus พร้อมช่องเก็บปากกาในตัว และฟังก์ชันใช้งานที่หลากหลาย เช่น Quick Command, Easy Clip, Photo Note, Paper Artist, Shape Match, Formula Match, Popup Noteประมวลผลการทำงานด้วย Quad-Core Cortex-A9 Processor (ชิปเซ็ต Exynos 4412 Quad) ความเร็วในการประมวลผล 1.6 GHz พร้อมระบบปฏิบัติการ Android OS เวอร์ชัน 4.1 (Jelly Bean)รองรับเทคโนโลยีการเชื่อมต่อระยะใกล้แบบ NFC (Near Field Communication) และรองรับการเชื่อมต่อกับจอแสดงผลภายนอกผ่านทางสาย MHLกล้องดิจิตอลตัวหลักที่ด้านหลังของตัวเครื่อง ความละเอียดระดับ 8 ล้าน Pixels พร้อมกล้องดิจิตอลขนาดเล็กที่ด้านหน้าของตัวเครื่อง ความละเอียดระดับ 1.9 ล้าน Pixelsรายละเอียดตัวเครื่องเบื้องต้น•  ระบบสัญญาณ Tri Mode (LTE/WCDMA/GSM)
+
+ - 4G LTE 700 MHz (Class 17/2100)
+
+ - WCDMA/HSDPA Quad Band (850/900/1900/2100 MHz)
+
+ - GSM Quad Band (850/900/1800/1900 MHz)
+•  ขนาด 151.1x80.5x9.4 มิลลิเมตร
+•  น้ำหนัก 180 กรัม
+•  ชนิดจอแสดงผลแบบ HD Super AMOLED Capacitive Touchscreen 16,700,000 สี ความละเอียด 1280x720 Pixels (HD 720p : กว้าง 5.55 นิ้ว : 267 ppi : อัตราส่วน 16:9)
+
+ - หน่วยประมวลผลภาพกราฟฟิคโดยเฉพาะแบบ Mali-400MP
+
+ - กระจกหน้าจอแบบ Corning Gorilla Glass 2 Display ช่วยเพิ่มประสิทธิภาพในการป้องกันแรงกระแทก หรือรอยขีดข่วน
+
+ - ฟังก์ชัน Smart Stay Eye Tracking รองรับการตรวจจับสายตาของผู้ใช้ (ไม่ปิดไฟหน้าจอในขณะที่สายตาของผู้ใช้กำลังจ้องมองอยู่)
+
+ - User Interface แบบ TouchWiz UI
+
+ - ระบบสัมผัสแบบหลายจุด (Multi-Touch)
+
+ - ระบบ Accelerometer Sensor ช่วยหมุนหรือปรับเปลี่ยนทิศทางการแสดงผลของหน้าจอให้แบบอัตโนมัติ ตามลักษณะการจับถือของผู้ใช้
+
+ - ระบบตรวจจับความเคลื่อนไหวแบบ Gyro Sensor
+
+ - ระบบ Proximity Sensor สำหรับการปิดหน้าจอแบบอัตโนมัติขณะสนทนา เพื่อประหยัดพลังงาน
+•  ชนิดแบตเตอรี่ Li-Ion 3100 mAh
+•  ระยะเวลารอรับสายสูงสุด ประมาณ - ชั่วโมง
+•  ระยะเวลาสนทนาสูงสุด ประมาณ - ชั่วโมง
+•  ประมวลผลการทำงานด้วย Quad-Core Cortex-A9 Processor (ชิปเซ็ต Exynos 4412 Quad) ความเร็วในการประมวลผล 1.6 GHz
+
+ - รองรับการเปิดใช้งานหลายโปรแกรมในเวลาเดียวกัน (Multi-Tasking)
+•  ขับเคลื่อนการทำงานด้วยระบบปฏิบัติการ Android OS เวอร์ชัน 4.1 (Jelly Bean)
+•  หน่วยความจำภายในสำหรับเก็บบันทึกข้อมูลขนาด 16 GB, 32 GB และ 64 GB
+•  หน่วยความจำ RAM ขนาด 2 GB
+•  รองรับการ์ดหน่วยความจำเสริมภายนอกแบบ microSD Card (TransFlash) ได้สูงสุดขนาด 64 GB
+•  หน่วยความจำสมุดโทรศัพท์
+•  บันทึกข้อมูลการโทร (โทรออก, รับสาย, ไม่รับสาย)
+•  แป้นควบคุมการทำงานแบบสัมผัส (Touch-Sensitive Navigation Panel)
+•  รองรับการใช้งานร่วมกับปากกา S Pen Stylus
+
+ - ช่องสำหรับเก็บปากกาในตัว
+
+ - ฟังก์ชัน Quick Command, Easy Clip, Photo Note, Paper Artist
+
+ - ฟังก์ชัน Shape Match, Formula Matchคุณสมบัติข้อความ•  SMS (Short Messaging Service)
+•  MMS (Multimedia Messaging Service)
+•  Email
+
+ - รองรับการใช้งานระบบ Push Email
+
+ - รองรับการใช้งานบริการระบบอีเมลของ Gmail
+
+ - รองรับการเขียนอีเมลด้วยลายมือ
+•  Instant Messaging (ChatON, Google Talk)
+•  ระบบสะกดคำอัตโนมัติ (Swype)คุณสมบัติการเชื่อมต่อ•  HTML Browser
+
+ - รองรับมาตรฐาน HTML5
+
+ - รองรับการใช้งานฟังก์ชัน RSS Feeds
+•  WiFi (WLAN : Wireless LAN : 802.11 a/b/g/n)
+
+ - รองรับความถี่ WiFi แบบ Dual Band (2.4 และ 5 GHz)
+
+ - สามารถเชื่อมต่อกับอุปกรณ์ที่รองรับเครือข่ายแบบ DLNA (Digital Living Network Alliance)
+
+ - เทคโนโลยี WiFi Direct รองรับการเชื่อมต่อแลกเปลี่ยนข้อมูลระหว่างเครื่องได้โดยตรง โดยไม่ต้องอาศัยเครือข่าย หรือตัวกระจายสัญญาณ WiFi
+
+ - ฟังก์ชัน Wi-Fi hotspot สำหรับการแชร์อินเทอร์เน็ตผ่านทางสัญญาณ Wi-Fi
+
+ - โปรแกรม Samsung AllShare Play and Control
+
+ - โปรแกรม Samsung AllShare Cast (WiFi Display)
+•  LTE Cat3 (ดาวน์โหลด 100 Mbps : อัพโหลด 50 Mbps)
+•  HSDPA (21 Mbps) : HSUPA (5.76 Mbps)
+•  EDGE
+•  GPRS
+•  Bluetooth เวอร์ชัน 4.0
+
+ - รองรับการเชื่อมต่อใช้งานกับหูฟัง Bluetooth แบบ Stereo (A2DP)
+
+ - รองรับเทคโนโลยี EDR (Enhanced Data Rate)
+•  NFC (Near Field Communication : การสื่อสารข้อมูลระยะใกล้ : อ่าน, เขียน, แชร์)
+
+ - ฟังก์ชัน S Beam
+•  USB Data Cable (microUSB : USB เวอร์ชัน 2.0)
+
+ - รองรับเทคโนโลยี MHL (Mobile High-Definition Link)
+
+ - รองรับการเชื่อมต่อกับจอแสดงผลภายนอกผ่านทางสาย MHL
+
+ - รองรับเทคโนโลยี USB OTG (USB On-the-Go) ช่วยให้สามารถเชื่อมต่อแลกเปลี่ยนข้อมูลกับอุปกรณ์อื่นๆ ได้โดยตรง โดยไม่ต้องใช้เครื่องคอมพิวเตอร์เป็นทางผ่าน
+•  ช่องต่อสายหูฟังมาตรฐานขนาด 3.5 มิลลิเมตร
+•  ระบบ GPS ในตัว (Global Positioning System : ระบบดาวเทียมนำร่อง)
+
+ - ฟังก์ชัน A-GPS ในตัว (Assisted Global Positioning System)
+
+ - รองรับการใช้งานกับระบบดาวเทียมของรัสเซีย (GLONASS : Global Navigation Satellite System)
+
+ - โปรแกรมเข็มทิศดิจิตอล (Digital Compass)
+
+ - ค้นหาข้อมูลแผนที่ผ่านทางโปรแกรม Google Maps
+•  SNS (Social Network Service)
+
+ - รองรับการใช้งาน Facebook, Twitter, Picasa
+•  ค้นหาและดาวน์โหลดแอปพลิเคชันผ่านทาง Google Play Store, Samsung Apps
+•  โปรแกรม Samsung Hub (Game Hub, Media Hub, Learning Hub, Music Hub, Video Hub)
+•  ค้นหาและเปิดดูคลิปวิดีโอบน YouTube
+•  ค้นหาข้อมูลผ่านโปรแกรม Google Searchคุณสมบัติทั่วไป•  เสียงเรียกเข้าแบบ Polyphonic Ringtones
+
+ - รองรับไฟล์เสียงเรียกเข้าแบบ MP3, WAV
+
+ - แสดงรูปภาพขณะมีสายเรียกเข้า (Photo Caller ID)
+
+ - ระบบสั่นในตัว
+•  นาฬิกาบอกเวลา
+•  ตั้งปลุก
+•  โปรแกรม Organizer
+•  ปฏิทินพร้อมบันทึกนัดหมาย
+
+ - โปรแกรม S Planner
+•  เครื่องคิดเลข
+•  จดบันทึก
+
+ - โปรแกรม S Note
+
+ - ฟังก์ชัน Popup Note สามารถเรียกฟังก์ชันจดบันทึกได้ทันที ขณะที่กำลังใช้งานฟังก์ชันอื่นอยู่ ด้วยการดับเบิ้ลคลิ๊กที่ปากกา S Pen Stylus
+•  โปรแกรมเล่นไฟล์เพลง FLAC, MP3, AAC, AAC+, eAAC+, AC3, WAV, OGG, AMR-NB, AMR-WB, MIDI, AC-3
+
+ - ระบบเสียงแบบ SoundAlive
+•  โปรแกรมเล่นไฟล์วิดีโอ DivX, XviD, MKV, MPEG4, WMV, H.263, H.264, VC-1, VP8, AVI, FLV
+•  โปรแกรมเปิดอ่าน และแก้ไขไฟล์เอกสาร Word, Excel, PowerPoint, PDF
+•  ฟังก์ชัน Air View
+•  ฟังก์ชัน Popup Note, Popup Play
+•  ฟังก์ชัน Page Buddy, Tag Buddy, Word Buddy
+•  โปรแกรม Samsung S Suggest
+•  ไมโครโฟนแยกเฉพาะสำหรับการสนทนา พร้อมระบบตัดเสียงรบกวนจากภายนอก
+•  สั่งงานด้วยเสียง
+•  โทรออกด้วยเสียง
+•  บันทึกเสียง
+•  Handsfree และ Speakerphone ในตัวคุณสมบัติอื่นๆ ที่น่าสนใจ•  กล้องดิจิตอลตัวหลักที่ด้านหลังของตัวเครื่อง ความละเอียดระดับ 8 ล้าน Pixels
+
+ - ความละเอียดสูงสุดของภาพถ่าย 3264x2448 Pixels
+
+ - เซนเซอร์รับภาพแบบ Backside-illuminated Sensor (BSI) ช่วยเพิ่มประสิทธิภาพของการถ่ายภาพในที่มืด
+
+ - ไฟแฟลชในตัว (LED Flash)
+
+ - ระบบโฟกัสภาพอัตโนมัติ (Auto Focus)
+
+ - ระบบเลือกจุดโฟกัสภาพด้วยการสัมผัส (Touch Focus)
+
+ - ฟังก์ชัน Best Photo
+
+ - ฟังก์ชัน Best Group Pose
+
+ - ฟังก์ชัน Low Light Shot
+
+ - ฟังก์ชัน Face Detection ช่วยเพิ่มประสิทธิภาพของการโฟกัสไปที่ใบหน้าของผู้ถูกถ่าย
+
+ - ฟังก์ชัน Smile Detection ถ่ายภาพอัตโนมัติเมื่อผู้ถูกถ่ายมีการยิ้ม
+
+ - ระบบป้องกันการสั่นไหวของรูปภาพ (Image Stabilization)
+
+ - ฟังก์ชัน Geotagging รองรับการแนบข้อมูลพิกัดตำแหน่งบนพื้นโลกไปกับรูปถ่าย
+
+ - โปรแกรมตกแต่งแก้ไขรูปภาพ
+
+ - ถ่ายภาพวิดีโอ (Full HD : 1080p : 1920x1080 Pixels : 30 fps)
+
+ - โปรแกรมตัดต่อวิดีโอ
+•  กล้องดิจิตอลขนาดเล็กที่ด้านหน้าของตัวเครื่อง ความละเอียดระดับ 1.9 ล้าน Pixels
+
+ - เซนเซอร์รับภาพแบบ Backside-illuminated Sensor (BSI) ช่วยเพิ่มประสิทธิภาพของการถ่ายภาพในที่มืด
+
+ - รองรับการใช้งานฟังก์ชัน Video Calling (สนทนาพร้อมภาพวิดีโอ)
+•  เซนเซอร์ตรวจวัดความกดอากาศ (Barometer Sensor)
+•  วิทยุ FM Stereo ในตัว พร้อมรองรับการใช้งานระบบ RDS (Radio Data System)
+•  รองรับ Java Applications (ใช้งานผ่านทาง Java MIDP Emulator)
+•  เกมส์ในเครื่อง
+•  มี 2 สีมาตรฐานให้เลือก (Marble White และ Titanium Gray)
+•  เปิดตัวครั้งแรก เมื่อ เดือนสิงหาคม ปี ค.ศ. 2012
+•  กำหนดการออกวางจำหน่าย เดือนตุลาคม ปี ค.ศ. 2012อัพเดทลราคาล่าสุด : 30 สิงหาคม 2555ข้อมูลเพิ่มเติม : http://www.thaimobilecenter.com/spec/Samsung_Galaxy_Note_II_(Galaxy_Note_2).asp

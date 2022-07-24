@@ -1,0 +1,30 @@
+ก็ถือว่าไม่ค่อยห่างจากงานที่แล้วอย่าง Shogun 2 เท่าไหร่ ยกเว้น HDD ที่เขมือบไปถึง 35 GB เลยทีเดียว  ส่วนใครที่คิดว่าเครื่องตัวเองยังไม่น่าจะรันพยุหะแห่งโรมครั้งนี้ได้ไหว  ก็คงต้องรีบอัพเกรดคอมพ์กันล่ะครับ (ผมก็คงต้องอัดฮาร์ดดิสค์เพิ่มล่ะ  ไม่พอแล้ว -*-)
+
+เกมส์ Total War: Rome II
+
+Minimum:
+OS: XP/ Vista / Windows 7 / Windows 8
+Processor:2 GHz Intel Dual Core processor / 2.6 GHz Intel Single Core processor
+Memory: 2GB RAM
+Graphics:512 MB DirectX 9.0c compatible card (shader model 3, vertex texture fetch support).
+DirectX®:9.0c
+Hard Drive: 35 GB HD space
+Screen Resolution: 1024×768
+
+
+เกมส์ Total War: Rome II
+ 
+
+Recommended:
+OS: Windows 7 / Windows 8
+Processor:2nd Generation Intel Core i5 processor (or greater)
+Memory: 4GB RAM
+Graphics:1024 MB DirectX 11 compatible graphics card.
+DirectX®:11
+Hard Drive:35 GB HD space
+Screen Resolution: 1920×1080
+
+
+Total War: Rome II มีกำหนดวางจำหน่ายบน PC วันที่ 3 กันยายนครับ และแว่วๆ มาว่าภายในอาทิตย์นี้จะมีวิดีโอเกมเพลย์ตัวใหม่ถูกปล่อยออกมาด้วย รอติดตามครับ
+
+Credit: VG247.com

@@ -1,0 +1,14 @@
+Final Fantasy XIII ของPCกินHDDสุดโหด 59GB
+Final Fantasy XIII 
+เมื่อเดือนที่แล้ว ทางเกม Final Fantasy XIII ได้นำมาให้ชาว PC ได้เล่นกันใน Steam แล้ว แต่เป็นเพียงการให้จองซื้อไว้ก่อนเท่านั้น กำหนดออกมาให้เล่นจริงๆคือวันที่ 10 ตุลาคม 2557 เป็นหนึ่งในโครงการนำเกมของ Square Enix มาให้ชาว PC ได้เล่นกันมากขึ้นผ่านทาง Steam ซึ่งนอกจาก Final Fantasy XIII ภาคแรกแล้ว จะมีภาคต่อๆมาจ่อคิวมาลงให้ชาว PC ได้เล่นกันด้วกันครบแน่นอน เป็นไตรภาค ทั้ง Final Fantasy XIII-2 และ Final Fantasy XIII Lightning Return
+แต่ก็มีอยู่อย่างหนึ่งที่ชาว PC สงสัยนั่นคือเรื่องของ System Requirement โดยก่อนหน้านั้นได้มีการเผยสเปกเครื่อง PC ที่ใช้สำหรับเล่น Final Fantasy XIII ออกมาว่าดังนี้ (สเปกจากเว็บ Square Enix Portal เองเลย)
+MINIMUM:OS: Windows® XP SP2 or later Processor: 2GHz Dual Core CPU Memory: 1 GB RAM Graphics: NVIDIA® Geforce® 8 Series/ ATI RadeonTM HD 2000 series VRAM 256MB or later DirectX: Version 9.0c Hard Drive: 30 GB available space Sound Card: Sound card compatible with DirectX® 9.0c
+RECOMMENDED:OS: Windows® Vista/ 7/ 8 Processor: Intel® CoreTM 2 Quad (2.66 GHz)/ AMD PhenomTM II X4 (2.8 GHz) processor Memory: 1 GB RAM Graphics: NVIDIA® Geforce® GTXTM 460/ ATI RadeonTM HD 5870 DirectX: Version 11 Hard Drive: 30 GB available space Sound Card: DirectX 11 compatible sound card Additional Notes: A game controller using Xinput is recomended for this game.
+เรื่องประสิทธิภาพฮาร์ดแวร์อาจไม่ใช่ปัญหานัก เพราะกินสเปกไม่สูงเกินไป แต่จะเห็นว่าตามข้อมูลบอกไว้ว่าพื้นที่ฮาร์ดดิสของ บอกว่าใช้ประมาณ 30GB แต่ว่ามี User (จากเว็บ Neogaf) คนหนึ่งได้ลอง Pre Download ตัวเกมมาติดตั้งใน PC ของเขาดูกลับพบว่า ตัวเกมใช้พื้นที่ฮาร์ดดิสถึง 59GB ผิดไปจากข้อมูลที่เว็บเหลี่ยมบอกไว้ แม้ว่าจะไม่ได้เป็นปัญหามาก เพราะเกมเมอร์ชาว PC น่าจะมี HDD เป็นถังกันอยู่แล้ว ปัญหาอยู่ที่การให้ข้อมูลของทางค่ายเหลี่ยมมากกว่า
+Final Fantasy XIII 
+ล่าสุดมี User หลายคนแจ้งเรื่องความต่างของพื้นที่ HDD ที่ใช้ลง Final Fantasy XIII พบว่ามันจะต่างกันตามแต่ละประเทศ โดยเวอร์ชั่นปกติทั่วไปที่มีภาษาเดียว อย่างของโซนเอเชียที่มีภาษาญี่ปุ่น หรือภาษาอังกฤษอย่างเดียว จะกินพื้นที่ HDD ไม่มากคือ 29 GB เท่านั้น แต่สำหรับเวอร์ชั่นโซนที่มีหลายภาษาให้เลือก จะกินพื้นที่ HDD มากกว่าที่ 59GB นอกจากนี้ก็ยังมีของบางประเทศใช้ 49GB ด้วย สรุปก็คือแต่ละประเทศไม่เหมือนกันจ้า ยิ่งมีหลายภาษาไฟล์ก็ยิ่งใหญ่ขึ้น
+สำหรับเกมเมอร์ชาว PC ทั้งหลาย อนาคตต่อจากนี้ไปก็ทำใจหน่อยนะครับ ไฟล์เกมใหญ่โตมโฬหารมากขึ้นทุกวันๆ เกิน 50GB นี่แทบจะเป็นเรื่องปรกติไปแล้ว
+
+
+
+

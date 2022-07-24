@@ -1,0 +1,166 @@
+ชื่อรุ่น : Apple iPad miniชื่อบริษัทเจ้าของ : Appleรูปขนาดเล็ก : รูปขนาดใหญ่ : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : รูปที่เกี่ยวข้อง : ลักษณะเด่นประจำรุ่นโทรศัพท์มือถือจอแสดงผลแบบ IPS LCD (LED-backlit) ความละเอียด 1024x768 Pixels (กว้าง 7.9 นิ้ว : 163 ppi) พร้อมเทคโนโลยีการเคลือบผิวแบบ Oleophobic Coating ช่วยป้องกันหน้าจอจากรอยนิ้วมือประมวลผลการทำงานด้วย Dual-Core A5 (Cortex-A9) Processor พร้อมขับเคลื่อนการทำงานด้วยระบบปฏิบัติการ iOS 6หน่วยความจำภายในสำหรับเก็บบันทึกข้อมูล ขนาด 16 GB, 32 GB หรือ 64 GB พร้อมหน่วยความจำ RAM ขนาด 512 MBqรองรับการเชื่อมต่ออินเทอร์เน็ตผ่านทางระบบ 4G LTE, HSPA+, CDMA EV-DO Rev.A, EDGE และ GPRS พร้อมการเชื่อมต่อข้อมูลผ่านทางสาย Lightning to USB Cableกล้องดิจิตอลตัวหลักที่ด้านหลังของตัวเครื่อง ความละเอียดระดับ 5 ล้าน Pixels (iSight Camera) พร้อมกล้องดิจิตอลขนาดเล็กที่ด้านหน้าของตัวเครื่อง ความละเอียดระดับ 1.2 ล้าน Pixels (FaceTime HD Camera)รายละเอียดตัวเครื่องเบื้องต้น•  ระบบสัญญาณ (เฉพาะ iPad mini Wi-Fi+Cellular โมเดล A1454) Tri Mode (LTE/WCDMA/GSM)
+
+ - 4G LTE (Band 4, 17)
+
+ - WCDMA/HSPA+ Quad Band (850/900/1900/2100 MHz)
+
+ - GSM Quad Band (850/900/1800/1900 MHz)
+•  ระบบสัญญาณ (เฉพาะ iPad mini Wi-Fi+Cellular โมเดล A1455) Quad Mode (LTE/WCDMA/CDMA/GSM)
+
+ - LTE (Band 1, 3, 5, 13, 25)
+
+ - WCDMA/HSPA+ Quad Band (850/900/1900/2100 MHz)
+
+ - CDMA EV-DO Rev.A and Rev.B Tri Band (800/1900/2100 MHz)
+
+ - GSM Quad Band (850/900/1800/1900 MHz)
+•  ใช้งานได้กับซิมการ์ดแบบ nanoSIM เท่านั้น
+•  ขนาด 200x134.7x7.2 มิลลิเมตร
+•  น้ำหนัก 312 กรัม (รุ่น Wi-Fi+Cellular) หรือ 308 กรัม (รุ่น Wi-Fi)
+•  ชนิดจอแสดงผลแบบ IPS LCD (LED-backlit) ความละเอียด 1024x768 Pixels (กว้าง 7.9 นิ้ว : 163 ppi)
+
+ - เทคโนโลยีการเคลือบผิวแบบ Oleophobic Coating ช่วยป้องกันหน้าจอจากรอยนิ้วมือ
+
+ - หน่วยประมวลผลภาพกราฟฟิคโดยเฉพาะ (GPU : Graphics Processing Unit) แบบ PowerVR SGX543MP2
+
+ - ฟังก์ชัน AssistiveTouch
+
+ - ระบบตรวจจับความเคลื่อนไหวแบบ 3-Axis Gyro Sensor
+
+ - ระบบสัมผัสแบบหลายจุด (Multi-Touch)
+
+ - ระบบ Accelerometer Sensor ช่วยหมุนหรือปรับเปลี่ยนทิศทางการแสดงผลของหน้าจอให้แบบอัตโนมัติ ตามลักษณะการจับถือของผู้ใช้
+
+ - ฟังก์ชัน Ambient Light Sensor สำหรับตรวจวัดระดับความสว่างของสภาพแวดล้อม เพื่อปรับความสว่างของหน้าจอและแผงปุ่มกดให้เหมาะสม
+•  ประมวลผลการทำงานด้วย Dual-Core A5 (Cortex-A9) Processor
+•  ขับเคลื่อนการทำงานด้วยระบบปฏิบัติการ iOS 6
+•  ชนิดแบตเตอรี่ Li-Ion Polymer
+•  ระยะเวลาการเปิดเว็บไซต์ต่อเนื่องสูงสุด (ผ่านระบบ Wi-Fi) ประมาณ 10 ชั่วโมง
+•  ระยะเวลาการเปิดเว็บไซต์ต่อเนื่องสูงสุด (ผ่านระบบเครือข่าย) ประมาณ 9 ชั่วโมง (เฉพาะ iPad mini Wi-Fi+Cellular)
+•  ระยะเวลาการเปิดดูวิดีโอต่อเนื่องสูงสุด ประมาณ 10 ชั่วโมง
+•  ระยะเวลาการฟังเพลงต่อเนื่องสูงสุด ประมาณ 10 ชั่วโมง
+•  หน่วยความจำภายในสำหรับเก็บบันทึกข้อมูล ขนาด 16 GB, 32 GB หรือ 64 GB
+•  หน่วยความจำ RAM ขนาด 512 MBคุณสมบัติข้อความ•  Email
+
+ - รองรับการใช้งานระบบ Push Email
+
+ - รองรับการใช้งานไฟล์แนบ (Attachment) พร้อมรองรับไฟล์นามสกุล .jpg, .tiff, .gif, .doc/.docx (Microsoft Word), .htm/.html (Web Pages), .key (Keynote), .numbers (Numbers), .pages (Pages), .pdf (Preview และ Adobe Acrobat), .ppt/.pptx (Microsoft PowerPoint), .txt (text), .rtf (Rich Text Format), .vcf (Contact Information), 
+
+.xls/.xlsx (Microsoft Excel)
+•  โปรแกรม iMessage
+•  Instant Messaging
+•  รองรับการใช้งานภาษาไทย
+
+ - รองรับการใช้งานคีย์บอร์ดภาษาไทย
+
+ - รองรับระบบสะกดคำอัตโนมัติภาษาไทย
+•  ฟังก์ชัน VoiceOver Screen Reader สำหรับการอ่านข้อความ เป็นเสียงพูดคุณสมบัติการเชื่อมต่อ•  HTML Browser (Safari Web Browser)
+•  WiFi (WLAN : Wireless LAN : 802.11 a/b/g/n)
+
+ - รองรับความถี่ WiFi แบบ Dual Band (2.4 และ 5 GHz)
+•  4G LTE (100 Mbps) (เฉพาะ iPad mini Wi-Fi+Cellular)
+•  HSPA+ (เฉพาะ iPad mini Wi-Fi+Cellular)
+
+ - DC-HSDPA (42 Mbps) : HSDPA (21 Mbps) : HSUPA (5.76 Mbps)
+•  CDMA EV-DO Rev.A and Rev.B (3.1 Mbps) (เฉพาะ iPad mini Wi-Fi+Cellular โมเดล A1455)
+•  EDGE
+•  GPRS
+•  Bluetooth เวอร์ชัน 4.0
+
+ - รองรับการเชื่อมต่อใช้งานกับหูฟัง Bluetooth แบบ Stereo (A2DP)
+
+ - รองรับเทคโนโลยี EDR (Enhanced Data Rate)
+•  Lightning Connector
+
+ - รองรับการใช้งานสาย Lightning to USB Cable พร้อมรองรับมาตรฐาน USB เวอร์ชัน 2.0
+•  ช่องต่อสายหูฟังมาตรฐานขนาด 3.5 มิลลิเมตร
+•  ระบบ GPS ในตัว (Global Positioning System : ระบบดาวเทียมนำร่อง)
+
+ - ค้นหาข้อมูลแผนที่ผ่านทางโปรแกรม Apple Maps
+
+ - ฟังก์ชัน A-GPS ในตัว (Assisted Global Positioning System : เฉพาะ iPad mini Wi-Fi+Cellular)
+
+ - รองรับการใช้งานกับระบบดาวเทียมของรัสเซีย (GLONASS : Global Navigation Satellite System : เฉพาะ iPad mini Wi-Fi+Cellular)
+
+ - โปรแกรมเข็มทิศดิจิตอล (Digital Compass)
+•  รองรับการเก็บบันทึกข้อมูลแบบ Cloud Storage ด้วยบริการ iCloud
+•  ค้นหาและดาวน์โหลดแอปพลิเคชันผ่านทาง App Store
+•  เชื่อมต่อ และถ่ายโอนไฟล์ผ่านโปรแกรม iTunes
+•  รองรับการใช้งานเครือข่ายสังคมออนไลน์ (Social Networking)
+
+ - รองรับการใช้งาน Facebook, Twitterคุณสมบัติทั่วไป•  นาฬิกาบอกเวลา
+•  โปรแกรม Organizer
+•  ปฏิทินพร้อมบันทึกนัดหมาย
+•  เครื่องคิดเลข
+•  โปรแกรมเล่นไฟล์เพลง
+
+ - รองรับย่านความถี่เสียงตั้งแต่ 20 Hz ถึง 20,000 Hz
+
+ - รองรับไฟล์เสียงแบบ AAC (8 ถึง 320 Kbps), Protected AAC (จาก iTunes Store), HE-AAC, MP3 (8 ถึง 320 Kbps), MP3 VBR, Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX และ AAX+), Apple Lossless, AIFF และ WAV
+
+ - รองรับการกำหนดระดับเสียงสูงสุด
+•  โปรแกรมเล่นไฟล์วิดีโอ
+
+ - รองรับการใช้งานฟังก์ชัน AirPlay Mirroring กับ Apple TV (2nd และ 3rd Generation) ที่ความละเอียดสูงสุดระดับ 720p
+
+ - รองรับการใช้งานฟังก์ชัน AirPlay Video Streaming กับ Apple TV (3rd Generation) ที่ความละเอียดสูงสุดระดับ 1080p และ Apple TV (2rd Generation) ที่ความละเอียดสูงสุดระดับ 720p
+
+ - รองรับการใช้งาน Video Mirroring และ Video out ผ่านทาง Lightning Digital AV Adapter (ความละเอียดสูงสุด 720p) และ Lightning to VGA Adapter (ความละเอียดสูงสุด 1080p)
+
+ - รองรับไฟล์วิดีโอแบบ H.264 (สูงสุด 1080p : 30 fps : High Profile level 4.1), MOV, MPEG-4 (สูงสุด 640x480 Pixels : 30 fps), Motion JPEG (M-JPEG : สูงสุด 1280x720 pixels : 30 fps), AVI
+•  โปรแกรม Newsstand
+•  โปรแกรม Photo Booth
+•  โปรแกรมเปิดอ่านไฟล์เอกสาร
+•  ลำโพงเสียงในตัว
+•  ฟังก์ชัน Siri สำหรับการสั่งงาน และโต้ตอบด้วยเสียงพูด
+•  บันทึกเสียงคุณสมบัติอื่นๆ ที่น่าสนใจ•  กล้องดิจิตอลตัวหลักที่ด้านหลังของตัวเครื่อง ความละเอียดระดับ 5 ล้าน Pixels (iSight Camera)
+
+ - ความละเอียดสูงสุดของภาพถ่าย 2592x1944 Pixels
+
+ - เซนเซอร์รับภาพแบบ Backside-illuminated Sensor (BSI) ช่วยเพิ่มประสิทธิภาพของการถ่ายภาพในที่มืด
+
+ - โครงสร้างภายใน ประกอบไปด้วยชิ้นเลนส์ 5 ชิ้น
+
+ - ระบบโฟกัสภาพอัตโนมัติ (Auto Focus)
+
+ - ระบบเลือกจุดโฟกัสภาพด้วยการสัมผัส (Tap to Focus)
+
+ - ระบบ Hybrid IR Filter
+
+ - ค่ารูรับแสง (Aperture) กว้างสูงสุดที่ F/2.4
+
+ - ฟังก์ชัน Face Detection ช่วยเพิ่มประสิทธิภาพของการโฟกัสไปที่ใบหน้าของผู้ถูกถ่าย
+
+ - ปรับค่าชดเชยแสง (Exposure)
+
+ - ฟังก์ชัน Geotagging รองรับการแนบข้อมูลพิกัดตำแหน่งบนพื้นโลกไปกับรูปถ่าย
+
+ - โปรแกรมตกแต่งแก้ไขรูปภาพ
+
+ - ถ่ายภาพวิดีโอ (Full HD : 1080p : 1920x1080 Pixels)
+
+ - ระบบป้องกันการสั่นไหวของภาพวิดีโอ (Video Stabilization)
+
+ - ฟังก์ชัน Video Face Detection ช่วยเพิ่มประสิทธิภาพของการโฟกัสไปที่ใบหน้าของผู้ถูกถ่าย
+
+ - โปรแกรมตัดต่อวิดีโอ
+•  กล้องดิจิตอลขนาดเล็กที่ด้านหน้าของตัวเครื่อง ความละเอียดระดับ 1.2 ล้าน Pixels (FaceTime HD Camera)
+
+ - เซนเซอร์รับภาพแบบ Backside-illuminated Sensor (BSI) ช่วยเพิ่มประสิทธิภาพของการถ่ายภาพในที่มืด
+
+ - รองรับการใช้งาน FaceTime (Video Calling) ผ่านทางระบบ Wi-Fi หรือระบบเครือข่าย
+
+ - ถ่ายภาพวิดีโอ (HD 720p : 1280x720 Pixels : 30 fps)
+
+ - ฟังก์ชัน Face Detection ช่วยเพิ่มประสิทธิภาพของการโฟกัสไปที่ใบหน้าของผู้ถูกถ่าย
+
+ - ปรับค่าชดเชยแสง (Exposure) สำหรับภาพนิ่ง และภาพวิดีโอ
+
+ - ฟังก์ชัน Geotagging รองรับการแนบข้อมูลพิกัดตำแหน่งบนพื้นโลกไปกับรูปถ่าย
+•  เกมส์ในเครื่อง
+•  มี 2 สีมาตรฐานให้เลือก (Black-Slate และ White-Silver)
+•  เปิดตัวครั้งแรก เมื่อ วันที่ 23 ตุลาคม ปี ค.ศ. 2012
+•  กำหนดการออกวางจำหน่าย เดือนพฤศจิกายน ปี ค.ศ. 2012
+•  ราคาเปิดตัว iPad mini Wi-Fi 16GB 329$
+•  ราคาเปิดตัว iPad mini Wi-Fi 32GB 429$
+•  ราคาเปิดตัว iPad mini Wi-Fi 64GB 529$อัพเดทลราคาล่าสุด : 24 ตุลาคม 2555ข้อมูลเพิ่มเติม : http://www.thaimobilecenter.com/spec/Apple_iPad_mini.asp

@@ -1,0 +1,57 @@
+หลังจากที่กระทรวงสาธารณสุขเริ่มมีการพูดคุยถึงเรื่องการนำเอาชุดตรวจวัดแบบ Rapid Antigen Test มาใช้งาน เพื่อลดปัญหาการเกิดคอขวดจากการตรวจด้วยวิธี RT-PCR ที่ใช้อยู่ในปัจจุบัน โดยในช่วงแรกจะอนุญาตให้ใช้ในสถานพยาบาลเป็นหลักก่อน และในระยะต่อไปจะอนุญาตให้นำไปใช้ในกลุ่มประชาชนทั่วไปแบบ Home Use ที่ประชาชนสามารถไปหาซื้อเองได้โดยคาดว่าจะมีราคาไม่เกินชุดละ 300-400 บาท ในระยะถัดไปเร็วๆ นี้
+สำนักงานคณะกรรมการอาหารและยา (อย.) ได้เผยรายชื่อชุดตรวจสำหรับโควิด-19 แบบตรวจหาสารพันธุกรรม ด้วยวิธี RT-PCR ที่ได้รับการอนุญาตให้ผลิต-นำเข้า จากสำนักงานคณะกรรมการอาหารและยา ทั้งหมดดังนี้
+ชุดตรวจสำหรับโควิด-19 แบบตรวจหาสารพันธุกรรม ด้วยวิธี RT-PCR
+(ข้อมูลเมื่อวันที่ 6 ก.ค. 64)
+
+STANDARD™ Q COVID-19 Ag Test ผลิตโดย SD Biosensor, Inc นำเข้าโดย บริษัท เอ็มพี กรุ๊ป (ประเทศไทย) จำกัด
+Panbio™ COVID-19 Ag Rapid Test Device (nasopharyngeal) ผลิตโดย Abbott Diagnostics Korea Inc. นำเข้าโดย บริษัท ดีซีเอช ออริกา (ประเทศไทย) จำกัด
+SARS-CoV-2 Rapid Antigen Test และ SARS-CoV-2 Antigen Control ผลิตโดย SD Biosensor, Inc นำเข้าโดย บริษัท โรช ไดแอกโนสติกส์ (ประเทศไทย) จำกัด
+BIOCREDIT COVID-19 Ag ผลิตโดย RapiGEN INC. นำเข้าโดย บริษัท ทิพย์บรรพต กรุ๊ป จำกัด
+Instant-View-Plus COVID-19 Antigen Test ผลิตโดย ALFA SCIENTIFIC DESIGNS,INC. USA นำเข้าโดย บริษัท ตรีปัญญา จำกัด
+BIOSYNEX COVID-19 Ag BSS ผลิตโดย BIOSYNEX SWISS SA ,SWITZERLAND นำเข้าโดย บริษัท ดับเบิ้ล เอส ไดแอคนอสติคส์ จำกัด
+Humasis COVID-19 Ag Test ผลิตโดย Humasis Co.,Ltd. Republic of Korea นำเข้าโดย บริษัท ทรู เฮลธ์แคร์ (ไทยแลนด์) จำกัด
+Novel Coronavirus (COVID-19) Antigen Test Kit (Colloidal Gold) ผลิตโดย Hangzhou Laihe Biotech Co., Ltd. China. นำเข้าโดย บริษัท แปซิฟิค ไบโอเทค จำกัด
+COVID-19 Rapid Antigen Test ผลิตโดย Reszon Diagnostic International Sdn. Bhd. Malaysia นำเข้าโดย บริษัท เจเนอรัลไซเอนซ์ เอ็นเตอร์ไพรส์ จำกัด
+Sofia SARS Antigen FIA ผลิตโดย Quidel Corporation. USA นำเข้าโดย บริษัท ซี เมดิค จำกัด
+Exdia COVID-19 Ag ผลิตโดย Precision Biosensor Inc. Republic of KOREA. นำเข้าโดย บริษัท ทิพย์บรรพต กรุ๊ป จำกัด
+OnSite COVID-19 Ag Rapid Test ผลิตโดย CTK Biotech, Inc. USA นำเข้าโดย บริษัท ซี เมดิค จำกัด
+CerTest SARS-CoV-2 ผลิตโดย CERTEST BIOTEC S.L., SPAIN นำเข้าโดย บริษัท เฮาส์เซน เบอร์นสไตน์ จำกัด
+STANDARD F COVID-19 Ag FIA และ STANDARD COVID-19 Ag Control ผลิตโดย SD Biosensor Inc. Republic of Korea. นำเข้าโดย บริษัท เอ็มพี กรุ๊ป (ประเทศไทย) จำกัด
+BIOCREDIT COVID-19 Ag ผลิตโดย RapiGEN, Inc., Republic if KOREA นำเข้าโดย บริษัท ทิพย์บรรพต กรุ๊ป จำกัด
+FORA COVID-19 Antigen Rapid Test ผลิตโดย TaiDoc Technology Corp., Taipei City Taiwan นำเข้าโดย บริษัท เมดิทอป จำกัด
+Vstrip COVID-19 Antigen Rapid Test ผลิตโดย Panion&BF Biotech Inc. Xizhi Factory, Taiwan. นำเข้าโดย บริษัท เจ.เอ.ซี.อินดัสตรี่ จำกัด
+COVID-19 Antigen Rapid Test (Nasopharyngeal Swab) ผลิตโดย Acro Biotech, INC. U.S.A นำเข้าโดย บริษัท ไอเมด ลาบอราทอรี่ จำกัด
+COVID-19 Antigen Test Kit ผลิตโดย Lansion Biotechnology Co., Ltd., China. นำเข้าโดย บริษัท เฮาส์เซน เบอร์นสไตน์ จำกัด
+AFFINOME COVID-19 Ag Rapid Test Cassette ผลิตโดย บริษัท แอฟฟิโนม จำกัด ประเทศไทย
+2019-nCoV-Antigen Rapid Test Kit (Colloidal gold immunochromatography) ผลิตโดย Beijing Lepu Medical Technology Co., Ltd. , P.R. China นำเข้าโดย บริษัท พริมา ไซเอ็นติฟิค จำกัด
+Humasis COVID-19 Ag Test ผลิตโดย Humasis Co., Ltd. Republic of Korea นำเข้าโดย บริษัท ลาโบตรอน จำกัด
+Trueline COVID-19 Ag Rapid Test ผลิตโดย MEDICON CO., LTD Vietnam นำเข้าโดย บริษัท อินโนเมด (ประเทศไทย) จำกัด
+SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold Immunochromatography) ผลิตโดย Beijing Lepu Medical Technology Co., Ltd P.R. China นำเข้าโดย บริษัท ออสท์แลนด์ แคปปิตอล จำกัด
+
+
+
+
+
+
+ข้อควรรู้เกี่ยวกับ Rapid Test สำหรับตรวจโรคโควิด-19 
+Rapid Test คืออะไร?
+Rapid Test คือ ชุดทดสอบอย่างง่าย และรวดเร็ว เป็นการตรวจคัดกรองเบื้องต้นเพื่อตรวจหาเชื้อไวรัสและภูมิคุ้มกัน ก่อนเข้ากระบวนการตรวจชนิดยืนยันผลจากห้องปฏิบัติการ
+นพ.ศุภกิจ ศิริลักษณ์ อธิบดีกรมวิทยาศาสตร์การแพทย์ กระทรวงสาธารณสุข ระบุว่า ชุดตรวจแบบเร็วหรือ Test Kit มี 2 แบบ คือ
+
+Antigen Test เป็นการตรวจองค์ประกอบไวรัส จะเก็บตัวอย่างจากทางจมูก ลึกถึงคอหรือเก็บจากลำคอ
+Antibody Test เป็นการตรวจภูมิคุ้มกัน จะใช้การเจาะเลือดตรวจ ซึ่งในประเทศไทยไม่นำมาใช้ เพราะปัจจุบันมีการฉีดวัคซีนจำนวนมาก ภูมิคุ้มกันอาจเกิดจากการติดเชื้อหรือวัคซีนก็ได้ ซึ่งไม่สามารถแยกได้
+
+ข้อดีของ Rapid Antigen Test
+
+ใช้งานง่าย ทราบผลภายใน 10-30 นาที
+เหมาะสำหรับการประเมินความชุกและการติดเชื้อ
+
+ข้อควรระวังของ Rapid Antigen Test
+แม้ว่าค่าผลตรวจเป็นบวก ใช่ว่าจะแปลว่าป่วย และค่าผลตรวจเป็นลบไม่ได้แปลว่าไม่ติดเชื้อ การตรวจด้วย Rapid Antigen Test เมื่อตรวจแล้วผลเป็นลบไม่ได้แปลว่าไม่ติดเชื้อ แต่เชื้ออาจจะน้อยและตรวจไม่เจอ ดังนั้น หากผลเป็นลบยังต้องกลับไปกักตัว และรอติดตามมาตรวจภายหลัง ส่วนผลเป็นบวก เนื่องจากอาจเป็นผลบวกลวงก็ต้องมีการตรวจซ้ำด้วย RT-PCR ซึ่งหากผลเป็นลบก็ต้องกลับไปดูแลกักตัวเช่นกันเพราะมีความเสี่ยงมากแต่หากเป็นบวกก็จะนำเข้าสู่ระบบการรักษาต่อไป
+ชุดตรวจ Rapid Antigen Test ต้องผ่านการรับรองจาก อย. โดยให้ขายได้เฉพาะ
+
+สถานพยาบาลของรัฐ
+โรงพยาบาลทั่วไป
+โรงพยาบาลเฉพาะทางคลินิกเวชกรรม
+คลินิกเฉพาะทางด้านเวชกรรม
+คลินิกเทคนิคการแพทย์ หรือสหคลินิก
