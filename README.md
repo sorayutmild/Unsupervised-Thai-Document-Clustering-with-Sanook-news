@@ -1,6 +1,6 @@
 
 # Unsupervised-Thai-Document-Clustering-with-Sanook-news
-TL;DR: This work creates an unsupervised model to clustering Thai news into 10 categories. Using TD-IDF, SimCSE-WangchanBERTa with weighted by number of named entities as a vector representation, and using k-means as an clustering model.
+**TL;DR** This work creates an unsupervised model to clustering Thai news into 10 categories. Using TD-IDF, SimCSE-WangchanBERTa with weighted by number of named entities as a vector representation, and using k-means as an clustering model.
 
 ## Problem statement
 Create unsupervised model to clustering sanook news 10 categories. 
